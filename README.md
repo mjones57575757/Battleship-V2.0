@@ -3,7 +3,7 @@ This is version 2 of battleship
 
 
 ## Who created the game
-This is a program by Mason Jones using replit It is version 1 There is a 2nd version to it also 
+This is a program by Mason Jones using replit It is version 2 There is a 1st version to it also a 3rd version coming soon 
 
 # Battleship
 
